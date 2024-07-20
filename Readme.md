@@ -6,3 +6,6 @@ mainly this type of folders are created so that we can store images or other dat
 
 .gitignore - gitignore generator - node
 
+type : module
+nodemon - no need to stop and run index.js again and again 
+
